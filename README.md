@@ -20,6 +20,7 @@ RAM: 512 MB
 Depolama: 10 GB
 
 CPU: 1 çekirdek, 1 GHz
+
 ![Ram Kullanımı](ram-usage.png)
 
 
@@ -31,6 +32,7 @@ Hafif ve hızlı XFCE masaüstü ortamı
 Kurulum sonrası otomatik XFCE login
 
 Minimal paketler ile düşük donanım dostu tasarım
+
 ![XFCE Masaüstü](desktop.png)
 
 

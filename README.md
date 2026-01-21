@@ -36,6 +36,7 @@ ISO başlatıldığında kullanıcı adı ve şifre “nucora” olarak ayarlanm
 Menüden setup açılmıyor, bu yüzden terminalden:
 
 sudo eggs calamares
+
 calamares
 
 komutları ile setup ekranını açabilirsiniz.

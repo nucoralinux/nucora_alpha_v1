@@ -11,7 +11,7 @@ Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisa
 
 ISO Boyutu: 1.7 GB
 
-RAM: 256 MB
+RAM: 512 MB
 
 Depolama: 10 GB
 

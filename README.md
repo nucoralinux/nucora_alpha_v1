@@ -3,7 +3,9 @@
 
 ⬇️İndirme Bağlantısı⬇️
 
-https://drive.google.com/file/d/10HzxB4zV_eiXAO7MCTRcakolLTDv1eIj/view
+https://drive.google.com/file/d/10HzxB4zV_eiXAO7MCTRcakolLTDv1eIj/view 
+
+⬆️ISO Boyutu: 1.7 GB⬆️
 
 Dikkat: Bu bir Alpha sürümüdür. Hatalar ve eksiklikler olabilir. Lütfen kurulum öncesi bunu göz önünde bulundurun! ⚠️
 
@@ -12,8 +14,6 @@ Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisa
 
 
 💾 Minimum Sistem Gereksinimleri
-
-ISO Boyutu: 1.7 GB
 
 RAM: 512 MB
 

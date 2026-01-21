@@ -1,6 +1,10 @@
 # !! KURMADAN ÖNCE OKUYUN !!
 🚀 Nucora OS (Alpha)
 
+⬇️İndirme Bağlantısı⬇️
+
+https://drive.google.com/file/d/10HzxB4zV_eiXAO7MCTRcakolLTDv1eIj/view
+
 Dikkat: Bu bir Alpha sürümüdür. Hatalar ve eksiklikler olabilir. Lütfen kurulum öncesi bunu göz önünde bulundurun! ⚠️
 
 Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisayarlarda bile çalışacak şekilde tasarlanmıştır. 💻✨

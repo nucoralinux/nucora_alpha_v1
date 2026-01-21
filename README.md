@@ -14,12 +14,12 @@ Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisa
 
 
 -💾 Minimum Sistem Gereksinimleri
-
-RAM: 512 MB
-
-Depolama: 10 GB
-
-CPU: 1 çekirdek, 1 GHz
+-
+-RAM: 512 MB
+-
+-Depolama: 10 GB
+-
+-CPU: 1 çekirdek, 1 GHz
 
 ![Ram Kullanımı](ram-usage.png)
 

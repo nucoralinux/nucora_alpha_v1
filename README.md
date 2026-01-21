@@ -1,2 +1,40 @@
-# nucora_alpha_v1
-Nucora Alpha V1
+# !! KURMADAN ÖNCE OKUYUN !!
+🚀 Nucora OS (Alpha)
+
+Dikkat: Bu bir Alpha sürümüdür. Hatalar ve eksiklikler olabilir. Lütfen kurulum öncesi bunu göz önünde bulundurun! ⚠️
+
+Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisayarlarda bile çalışacak şekilde tasarlanmıştır. 💻✨
+
+💾 Minimum Sistem Gereksinimleri
+
+ISO Boyutu: 1.7 GB
+
+RAM: 256 MB
+
+Depolama: 10 GB
+
+CPU: 1 çekirdek, 1 GHz
+
+✨ Özellikler
+
+Hafif ve hızlı XFCE masaüstü ortamı
+
+Kurulum sonrası otomatik XFCE login
+
+Minimal paketler ile düşük donanım dostu tasarım
+
+⚙️ Kurulum Notları / Known Issues
+
+ISO başlatıldığında kullanıcı adı ve şifre “nucora” olarak ayarlanmıştır. 🔑
+
+Menüden setup açılmıyor, bu yüzden terminalden:
+
+sudo eggs calamares
+calamares
+
+
+komutları ile setup ekranını açabilirsiniz.
+
+Setup ekranında girilen kullanıcı adı ve şifre kurulum sırasında değiştirilemiyor, sadece makine adı değiştirilebilir.
+
+Kurulum tamamlandıktan sonra bilgisayarı açtığınızda ana kullanıcı adı ve şifre yine “nucora” olacak. 🔒

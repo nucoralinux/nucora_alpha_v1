@@ -5,6 +5,8 @@ Dikkat: Bu bir Alpha sürümüdür. Hatalar ve eksiklikler olabilir. Lütfen kur
 
 Nucora OS, hafif ve minimal Linux tabanlı bir işletim sistemidir. Eski bilgisayarlarda bile çalışacak şekilde tasarlanmıştır. 💻✨
 
+
+
 💾 Minimum Sistem Gereksinimleri
 
 ISO Boyutu: 1.7 GB
@@ -15,6 +17,8 @@ Depolama: 10 GB
 
 CPU: 1 çekirdek, 1 GHz
 
+
+
 ✨ Özellikler
 
 Hafif ve hızlı XFCE masaüstü ortamı
@@ -22,6 +26,8 @@ Hafif ve hızlı XFCE masaüstü ortamı
 Kurulum sonrası otomatik XFCE login
 
 Minimal paketler ile düşük donanım dostu tasarım
+
+
 
 ⚙️ Kurulum Notları / Known Issues
 
@@ -31,7 +37,6 @@ Menüden setup açılmıyor, bu yüzden terminalden:
 
 sudo eggs calamares
 calamares
-
 
 komutları ile setup ekranını açabilirsiniz.
 

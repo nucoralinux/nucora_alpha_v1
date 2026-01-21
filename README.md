@@ -29,7 +29,7 @@ CPU: 1 çekirdek, 1 GHz
 
 Hafif ve hızlı XFCE masaüstü ortamı
 
-Kurulum sonrası otomatik XFCE login
+Kurulum sonrası login manager olmadan tty 1 ile login
 
 Minimal paketler ile düşük donanım dostu tasarım
 

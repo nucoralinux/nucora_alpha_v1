@@ -26,7 +26,7 @@ Hafif ve hızlı XFCE masaüstü ortamı
 Kurulum sonrası otomatik XFCE login
 
 Minimal paketler ile düşük donanım dostu tasarım
-![XFCE Masaüstü](screenshots/desktop.png)
+![XFCE Masaüstü](main/desktop.png)
 
 
 ⚙️ Kurulum Notları / Known Issues
